@@ -1,0 +1,45 @@
+_repo: The-Sweating-Sickness--13-A-boke-or-counseill-against-the-disease-commonly-called-the-sweate-__33503
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Caius, John
+    aliases:
+    - Cay, John
+    - Caius, Iohannes
+    - Keye, John
+    - Keys, John
+    - Kaye, John
+    - Kees, John
+    - Kay, John
+    - Key, John
+    birthdate: 1510
+    deathdate: 1573
+    gutenberg_agent_id: '32107'
+    url: http://www.gutenberg.org/2009/agents/32107
+    wikipedia: http://en.wikipedia.org/wiki/John_Caius
+  editor:
+    agent_name: Roberts, E. S. (Ernest Stewart)
+    alias: Roberts, Ernest Stewart
+    birthdate: 1847
+    deathdate: 1912
+    gutenberg_agent_id: '32108'
+    url: http://www.gutenberg.org/2009/agents/32108
+description: ''
+gutenberg_issued: '2010-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33503'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Early works to 1800'
+- !lcc 'RC'
+- !lcsh 'Sweating-sickness -- Early works to 1800'
+title: "The Sweating Sickness\r\nA boke or counseill against the disease commonly\
+  \ called the sweate or sweatyng sicknesse"
+url: http://www.gutenberg.org/ebooks/33503
