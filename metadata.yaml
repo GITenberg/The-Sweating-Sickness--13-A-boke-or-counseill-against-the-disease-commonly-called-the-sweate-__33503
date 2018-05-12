@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '32108'
     url: http://www.gutenberg.org/2009/agents/32108
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33503#The-Sweating-Sickness--13-A-boke-or-counseill-against-the-disease-commonly-called-the-sweate-_
 gutenberg_issued: '2010-08-23'
 gutenberg_type: Text
 identifiers:
